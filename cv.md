@@ -1,6 +1,6 @@
-# CV for RS SCHOOL
-===
-## Full Name: Maxim Polenov
+
+## Full Name: 
+Maxim Polenov
 ## Contact Information: 
 * Phone numuber: +79859046313 
 * Telegram: @pmaxim1
@@ -41,7 +41,7 @@ function Main() {
 * Bachelor in Moscow Power Engineering Institute with specialty in Informatics and Computer Science
 * Master's student in Moscow University named after S.Y. Witte with specialty in Applied Informatics
 ## Languages:
-English B2 
+English B2\
 Russian Native
 
 
