@@ -44,11 +44,11 @@
             function Main() {
                 const [product, setProduct] = useState({});
 
-                useEffect(() => {
-                    setProduct(productData); 
+                useEffect(() =&gt; {
+                    setProduct(productData);
                 }, []);
 
-                if (!product.productName) return null; 
+                if (!product.productName) return null;
                 
                 return (
                     &lt;div className='real-main'&gt;
